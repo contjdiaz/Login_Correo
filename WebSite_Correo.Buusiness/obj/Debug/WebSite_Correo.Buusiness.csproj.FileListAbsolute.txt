@@ -1,0 +1,13 @@
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\bin\Debug\WebSite_Correo.Buusiness.dll
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\bin\Debug\WebSite_Correo.Buusiness.pdb
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\bin\Debug\Website_Correo.DACL.dll
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\bin\Debug\WebSite_Correo.Entities.dll
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\bin\Debug\log4net.dll
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\bin\Debug\Website_Correo.DACL.pdb
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\bin\Debug\WebSite_Correo.Entities.pdb
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\bin\Debug\log4net.xml
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\obj\Debug\WebSite_Correo.Buusiness.csprojAssemblyReference.cache
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\obj\Debug\WebSite_Correo.Buusiness.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\obj\Debug\WebSite_Correo.Buusiness.csproj.CopyComplete
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\obj\Debug\WebSite_Correo.Buusiness.dll
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Buusiness\obj\Debug\WebSite_Correo.Buusiness.pdb

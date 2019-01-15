@@ -1,0 +1,6 @@
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Entities\bin\Debug\WebSite_Correo.Entities.dll
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Entities\bin\Debug\WebSite_Correo.Entities.pdb
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Entities\obj\Debug\WebSite_Correo.Entities.csprojAssemblyReference.cache
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Entities\obj\Debug\WebSite_Correo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Entities\obj\Debug\WebSite_Correo.Entities.dll
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\WebSite_Correo.Entities\obj\Debug\WebSite_Correo.Entities.pdb

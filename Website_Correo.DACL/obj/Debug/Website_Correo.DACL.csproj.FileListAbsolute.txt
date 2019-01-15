@@ -1,0 +1,9 @@
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\Website_Correo.DACL\bin\Debug\Website_Correo.DACL.dll
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\Website_Correo.DACL\bin\Debug\Website_Correo.DACL.pdb
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\Website_Correo.DACL\bin\Debug\log4net.dll
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\Website_Correo.DACL\bin\Debug\log4net.xml
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\Website_Correo.DACL\obj\Debug\Website_Correo.DACL.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\Website_Correo.DACL\obj\Debug\Website_Correo.DACL.csproj.CopyComplete
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\Website_Correo.DACL\obj\Debug\Website_Correo.DACL.dll
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\Website_Correo.DACL\obj\Debug\Website_Correo.DACL.pdb
+C:\Users\Tatiana Diaz\source\repos\WebSite_Correo\Website_Correo.DACL\obj\Debug\Website_Correo.DACL.csprojAssemblyReference.cache
